@@ -1,6 +1,6 @@
 title: Name  Satyam Sharma
-logo: /assets/img/image12.png # Use a relative path to logo image 
-
+logo: portfolio/blob/main/assets/image12.png # Use a relative path to logo image 
+#https://github.com/ssharma01x/portfolio/blob/main/assets/image12.png
 description: Data science and AI in agriculture - where bytes and botany blend for a better world. # Fix hyphenation 
 
 show_downloads: true # Fix spelling
