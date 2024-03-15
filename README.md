@@ -28,7 +28,7 @@ Jr Analyst, Modelling, Enterprise & Model Risk Management
  Other Positions
  Quality Technologist, Metex Heat Treating, Canada & Bodycote, Canada ­ 2016 – 2019
 •	Tracked quality KPI’s and supported production strategies by providing actionable insights through data analysis
-  Product & Process Engineer, Bharat Heavy Electricals, Hardwar & Tata Steel-BSL, Orissa ­ 2009 - 2013
+  Product & Process Engineer, Bharat Heavy Electricals, India & Tata Steel-BSL, India ­ 2009 - 2013
 •	Led continuous improvement projects and represented management in quality management systems audits
 
 
