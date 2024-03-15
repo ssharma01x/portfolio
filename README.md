@@ -12,7 +12,8 @@
 * Carried out assessment of credit exposures and ratings for credit books, updated benchmarks and proxies and performed UAT testing to test enhancements
 * Took ownership of the daily reports and documented the corresponding work flows in corresponding SOP’s
 * Supported the risk systems transformation from legacy databases to cloud by carrying out validation checks on the output files
-#### Analyst, Property, Casualty & Mortgage Insurance, Office of Superintendent of Financial Institutions ­ Feb, 2022 – Nov, 2022
+#### Analyst, Property, Casualty & Mortgage Insurance, 
+#### Office of Superintendent of Financial Institutions ­ Feb, 2022 – Nov, 2022
 * Developed a Power BI tool to analyze the trends in various line items of Canadian P&C insurers during the IFRS 17 transition
 * Analyzed the precise impact of a new capital risk framework through analysis of insurance in force and claims data sets
 * Collaborated with various stakeholders to discuss different approaches for the new framework, presented the proposal to the senior management and actively addressed their comments
