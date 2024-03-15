@@ -6,12 +6,12 @@ B.Tech., Materials Engineering, Indian Institute of Technology, Banaras         
 ### Work Experience
 Sr Analyst, Investment Risk Analytics and Reporting
 CPP Investments ­ Feb, 2023 – Oct, 2023 (Contract)
-•	Analyzed and reported DoD exposures and analytics and investigated any unexpected changes and limit breaches in risk and performance measures 
-•	Coordinated with multiple teams including trading desks, portfolio managers, oversight managers and technology and data team in developing additional views for desk level reports to test effectiveness of hedging programs, performance reporting, stress testing etc.
-•	Analyzed complex sets of trading and market data from different systems to identify patterns and any system or data issues
-•	Carried out assessment of credit exposures and ratings for credit books, updated benchmarks and proxies and performed UAT testing to test enhancements 
-•	Took ownership of the daily reports and documented the corresponding work flows in corresponding SOP’s
-•	Supported the risk systems transformation from legacy databases to cloud by carrying out validation checks on the output files
+* Analyzed and reported DoD exposures and analytics and investigated any unexpected changes and limit breaches in risk and performance measures
+* Coordinated with multiple teams including trading desks, portfolio managers, oversight managers and technology and data team in developing additional views for desk level reports to test effectiveness of hedging programs, performance reporting, stress testing etc.
+* Analyzed complex sets of trading and market data from different systems to identify patterns and any system or data issues
+* Carried out assessment of credit exposures and ratings for credit books, updated benchmarks and proxies and performed UAT testing to test enhancements
+* Took ownership of the daily reports and documented the corresponding work flows in corresponding SOP’s
+* Supported the risk systems transformation from legacy databases to cloud by carrying out validation checks on the output files
 Analyst, Property, Casualty & Mortgage Insurance 
 Office of Superintendent of Financial Institutions ­ Feb, 2022 – Nov, 2022 (Contract)
 •	Developed a Power BI tool to analyze the trends in various line items of Canadian P&C insurers during the IFRS 17 transition
