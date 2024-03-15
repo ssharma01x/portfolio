@@ -1,5 +1,6 @@
 # Data Analyst
 ### Education
+#### Certificate in Data Analytics, Sheridan College           		                                            In-progress
 #### M.Sc., Finance, Telfer School of Management, Ottawa                                                    (2019 – 2021)
 #### M.S., Mechanical Engineering, McMaster University, Hamilton                                            (2014 – 2016)
 #### B.Tech., Materials Engineering, Indian Institute of Technology, Banaras                                (2005 – 2009)
