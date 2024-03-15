@@ -1,1 +1,11 @@
+title: Name  Satyam Sharma
 
+logo: 1.png # Use a relative path to logo image 
+
+description: Data science and AI in agriculture - where bytes and botany blend for a better world. # Fix hyphenation 
+
+show_downloads: true # Fix spelling
+
+theme: jekyll-theme-minimal 
+
+email: ssharmamacster@gmail.com # Allow visitors to contact you
