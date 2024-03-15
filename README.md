@@ -1,8 +1,8 @@
 # Data Analyst
 ### Education
-## M.Sc., Finance, Telfer School of Management, Ottawa                                                    (2019 – 2021)
-## M.S., Mechanical Engineering, McMaster University, Hamilton                                            (2014 – 2016)
-## B.Tech., Materials Engineering, Indian Institute of Technology, Banaras                                (2005 – 2009)
+# M.Sc., Finance, Telfer School of Management, Ottawa                                                    (2019 – 2021)
+# M.S., Mechanical Engineering, McMaster University, Hamilton                                            (2014 – 2016)
+# B.Tech., Materials Engineering, Indian Institute of Technology, Banaras                                (2005 – 2009)
 ### Work Experience
 ## Sr Analyst, Investment Risk Analytics, CPP Investments ­ Feb, 2023 – Oct, 2023
 * Analyzed and reported DoD exposures and analytics and investigated any unexpected changes and limit breaches in risk and performance measures
