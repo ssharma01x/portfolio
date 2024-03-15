@@ -1,6 +1,6 @@
 # Data Analyst
 ### Education
-## M.Sc., Finance, Telfer School of Management, Ottawa, 9.2/10.0                                          (2019 – 2021)
+## M.Sc., Finance, Telfer School of Management, Ottawa                                                    (2019 – 2021)
 ## M.S., Mechanical Engineering, McMaster University, Hamilton                                            (2014 – 2016)
 ## B.Tech., Materials Engineering, Indian Institute of Technology, Banaras                                (2005 – 2009)
 ### Work Experience
