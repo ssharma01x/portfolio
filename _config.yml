@@ -2,7 +2,8 @@ title: Satyam Sharma
 logo: assets/imagess.jpg # Use a relative path to logo image 
 
 # https://github.com/ssharma01x/portfolio/blob/main/assets/image12.png
-# https://github.com/ssharma01x/portfolio/blob/main/assets/imagess.jpg
+url: 'https://ssharma01x.github.io/portfolio/'
+
 description: Data science and AI in risk and finance # Fix hyphenation 
 
 show_downloads: true # Fix spelling
