@@ -4,7 +4,7 @@ logo: /assets/img/imagess.jpg
 #![Replica logo]({{ '/images/replica_logo_2.jpeg' | relative_url }})
 # https://github.com/ssharma01x/portfolio/blob/main/assets/image12.png
 
-description: Data science and AI in risk and finance # Fix hyphenation 
+description: Data Analytics [Domain: Risk Management, Finance] # Fix hyphenation 
 
 show_downloads: true # Fix spelling
 
