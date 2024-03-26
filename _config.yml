@@ -1,5 +1,5 @@
 title: Satyam Sharma
-logo: ![imagess]({{ '/assets/152207319/f0cecc84-7b45-4161-b7a0-dd932e077e52)portfolio' | /blob/main/assets/imagess.jpg}}) # Use a relative path to logo image 
+logo: ![imagess]({{ '/assets/imagess.jpg' | /blob/main/assets/imagess.jpg}}) # Use a relative path to logo image 
 #![Replica logo]({{ '/images/replica_logo_2.jpeg' | relative_url }})
 # https://github.com/ssharma01x/portfolio/blob/main/assets/image12.png
 
