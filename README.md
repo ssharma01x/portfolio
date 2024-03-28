@@ -2,13 +2,13 @@
 ********************************************************************************************************************************************
 ## Education
 ********************************************************************************************************************************************
--  Certificate in Data Analytics, Sheridan College           		                                           Mar 2024
+-  Certificate in Data Analytics, Sheridan College           		                                             (Mar 2024)
   
--  M.Sc., Finance, Telfer School of Management, Ottawa                                                    (2019 – 2021)
+-  M.Sc., Finance, Telfer School of Management, Ottawa                                                           (2021)
   
--  M.S., Mechanical Engineering, McMaster University, Hamilton                                            (2014 – 2016)
+-  M.S., Mechanical Engineering, McMaster University, Hamilton                                                   (2016)
 
--  B.Tech., Materials Engineering, Indian Institute of Technology, Banaras                                (2005 – 2009)
+-  B.Tech., Materials Engineering, Indian Institute of Technology, Banaras                                       (2009)
   
 # Work Experience
 ### **Sr Analyst, Investment Risk Analytics**
